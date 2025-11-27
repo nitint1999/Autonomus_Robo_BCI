@@ -1,0 +1,3 @@
+https://docs.circuitpython.org/projects/servokit/en/latest/
+naveen@raspberrypi:~ $ sudo rm /usr/lib/python3.13/EXTERNALLY-MANAGED
+naveen@raspberrypi:~ $ sudo pip3 install adafruit-circuitpython-servokit
